@@ -1,1 +1,1 @@
-# slides_manu00
+[Slides](https://jp-guimaraes.github.io/slides_manu00/#/)
