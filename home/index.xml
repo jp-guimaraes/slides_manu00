@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Fontes</title>
+    <link>https://jp-guimaraes.github.io/slides_manu00/home/</link>
+    <description>Recent content in Homes on Fontes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://jp-guimaraes.github.io/slides_manu00/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_manu00/home/1_intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jp-guimaraes.github.io/slides_manu00/home/1_intro/</guid>
+      <description>&lt;section data-shortcode-section&gt;&#xA;&lt;h1 id=&#34;introdução&#34;&gt;Introdução&lt;/h1&gt;&#xA;&lt;p&gt;Curso de Organização e Manutenção de Computadores&lt;/p&gt;&#xA;&#xA;&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_manu00/home/2_museu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jp-guimaraes.github.io/slides_manu00/home/2_museu/</guid>
+      <description>&lt;section data-shortcode-section&gt;&#xA;&lt;h1 id=&#34;museu-do-amanhã&#34;&gt;Museu do amanhã&lt;/h1&gt;&#xA;&lt;p&gt;Novidades das últimas semanas que logo serão velharias mas antes precisarão ser entendidas&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;notícias---2021&#34;&gt;Notícias - 2021&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://adrenaline.com.br/noticias/v/71904/processadores-intel-de-13a-geracao-manterao-suporte-a-memorias-ddr4&#34;&gt;Processadores Intel de 13a geracao manterão suporte a memorias DDR4&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://macmagazine.com.br/post/2021/11/05/novo-chip-da-intel-bate-m1-max-mas-perde-em-eficiencia-energetica/&#34;&gt;novo chip da intel bate m1 max mas perde em eficiencia energetica/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://adrenaline.com.br/noticias/v/71868/zen-4-dense-pode-ser-a-resposta-da-amd-a-tecnologia-intel-hybrid&#34;&gt;zen 4 dense pode ser a resposta da amd a tecnologia intel-hybrid&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;notícias---2022&#34;&gt;Notícias - 2022&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://adrenaline.com.br/noticias/v/74724/intel-mostra-gpu-arc-para-desktop-com-tres-conectores-de-8-pinos&#34;&gt;Intel mostra GPU para Desktop&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.91mobiles.com/hub/intel-12th-gen-vs-11th-gen-desktop-processor-comparison-specs-compatibility-features-and-more/&#34;&gt;Comparativo da décima primeira com a décima segunda geração de processadores intel&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_manu00/home/3_manutencao_computadores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jp-guimaraes.github.io/slides_manu00/home/3_manutencao_computadores/</guid>
+      <description>&lt;section data-shortcode-section&gt;&#xA;&lt;h1 id=&#34;introdução-a-manutenção-de-computadores&#34;&gt;Introdução a Manutenção de Computadores&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://jp-guimaraes.github.io/intro_manu/#/1&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&lt;/section&gt;</description>
+    </item>
+  </channel>
+</rss>
